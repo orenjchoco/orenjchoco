@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**orenjchoco/orenjchoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 I’m currently working on 
+- **Mymic** – A short-distance messaging app using Wi-Fi Direct in Android Studio (Java).  
+- **Community Website** – A web system handling database management for a large community. This is simply a capstone project with other group memebers.
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning  
+- Back-end web development with **PHP & MySQL**.  
+- Android development, focusing on **Wi-Fi Direct & P2P communication**.  
+- Improving my **database modeling** skills 😭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👯 I’m looking to collaborate on  
+- Open-source projects related to **mobile and web development**.  
+- **Event hosting & security-focused applications** that require IT solutions.  
+- Any beginner-friendly **AI/ML projects** to explore AI applications.  
+
+Excited to learn and build new things! Let’s connect!  
