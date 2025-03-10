@@ -2,7 +2,7 @@
 
 ## 🔭 I’m currently working on 
 - **Mymic** – A short-distance messaging app using Wi-Fi Direct in Android Studio (Java).  
-- **Community Website** – A web system handling database management for a large community. This is simply a capstone project with other group memebers.
+- **Community Website** – A web system handling database management for a large community. This is simply a capstone project with other group members that would occupy 2 semesters.
 
 ## 🌱 I’m currently learning  
 - Back-end web development with **PHP & MySQL**.  
